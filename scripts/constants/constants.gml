@@ -1,0 +1,1 @@
+#macro DIS sprite_get_bbox_right(spr_segment)

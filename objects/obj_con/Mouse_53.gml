@@ -1,0 +1,1 @@
+if !instance_exists(obj_head) room_restart();
